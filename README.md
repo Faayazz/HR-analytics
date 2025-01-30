@@ -47,7 +47,7 @@ This project is an HR dashboard designed to analyze employee data and provide in
     *   `YearsInCurrentRole`: Years in the current role of the employee.
     *   `YearsSinceLastPromotion`: Years since the employee's last promotion.
     *   `YearsWithCurrManager`: Years the employee has been with the current manager.
-    The dataset is located in the `hr_data.csv` file.
+    The dataset is located in the `HR_ANALYTICS.csv` file.
 
 ## Key Metrics & KPIs
 
